@@ -1,5 +1,5 @@
 # worldClock
- A flutter app to see world time.
+A flutter app to see world time.
  
 This is my 2nd Flutter application. A simple app to see world time. Nothing complicated to use here. Just for learning purpose make this app.
 It also includes API integration.
@@ -12,7 +12,7 @@ Project No: 29 <br>
 Year: 2021
 
 ## Demo Video
-<!-- [![IMAGE ALT TEXT](http://img.youtube.com/vi/1bBcfG0_Xd4/0.jpg)](http://www.youtube.com/watch?v=1bBcfG0_Xd4 "worldClock || flutter dev") -->
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/2OX1hPjOnEE/0.jpg)](http://www.youtube.com/watch?v=2OX1hPjOnEE "worldClock || flutter dev")
 
 ## Screen shot
 
