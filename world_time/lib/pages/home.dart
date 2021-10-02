@@ -247,21 +247,6 @@ class _TimeUpdateState extends State<TimeUpdate> {
   }
 }
 
-class hi extends StatefulWidget {
-  const hi({Key? key}) : super(key: key);
-
-  @override
-  _hiState createState() => _hiState();
-}
-
-class _hiState extends State<hi> {
-  @override
-  Widget build(BuildContext context) {
-    return Container(
-      child: a,
-    );
-  }
-}
 
 
 
